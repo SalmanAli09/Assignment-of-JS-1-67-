@@ -1,0 +1,61 @@
+/* -----Task 3 chapter 49-52 */
+/* .tab, th, td {
+    border: 1px solid black;
+    border-spacing: 10px;
+  } */
+
+
+  /* -----Task 1 chapter 53-57 */
+
+/* *{
+  background-color: black;
+}
+.img1{
+  width: 150px;
+  text-align: center;
+  border-radius: 10px;
+}
+.img2{
+  width: 150px;
+  text-align: center;
+  border-radius: 10px;
+}
+.img3{
+  width: 150px;
+  text-align: center;
+  border-radius: 10px;
+}
+.img4{
+  width: 150px;
+  text-align: center;
+  border-radius: 10px;
+}
+.center{
+  text-align: center;
+}
+.close {
+  position: absolute;
+  top: 15px;
+  right: 35px;
+  color: #f1f1f1;
+  font-size: 40px;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.close:hover,
+.close:focus {
+  color: #bbb;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+@-webkit-keyframes zoom {
+  from {-webkit-transform:scale(0)} 
+  to {-webkit-transform:scale(1)}
+}
+
+@keyframes zoom {
+  from {transform:scale(0)} 
+  to {transform:scale(1)}
+} */
