@@ -1971,22 +1971,22 @@
 
 // ========  ( 1 )  =========
 
-// var x;
-// function myFunction() {
-//         var x = document.body.nodeType;
-//         document.getElementById("form-content").innerHTML = x;
-//       }
-//       console.log(x)
+// var a = document.getElementById('form-content').nodeType
+// document.write('The nodeType of the elementhaving id form content is' + a)
 
 
 // ========  ( 2 )  =========
 
+// var b = document.getElementById('LastName');
+// var c = b.nodeType;
+// var d = b.childNodes
+// document.write('The nodeof the element having ID lastname is '+ c)
+// console.log('the child nodes of element having id lastname is ' + d)
 
 // ========  ( 3 )  =========
 
-// var parent = document.getElementById("form-content"); 
-//   nName = parent.NodeName; 
-//   console.log(nName)
+// var c = b.childNodes = "updated"
+// document.write('updated' + c)
 
 
 // ========  ( 4 )  =========
